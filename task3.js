@@ -21,7 +21,7 @@ function isDivisible(num){
         }
       
     }
-    console.log(array)
+    return array;
 }
 isDivisible(100);
 isDivisible(10);
